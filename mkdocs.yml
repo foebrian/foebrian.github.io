@@ -1,0 +1,12 @@
+site_name: Brian Kroll
+site_url: https://foebrian.github.io/
+nav:
+    - Home: index.md
+    - About: about.md
+    - Contact: contact.md 
+    - Projects: projects.md
+    - Resume: resume.md
+theme: terminal
+plugins:
+    - search:
+        min_search_length: 3
