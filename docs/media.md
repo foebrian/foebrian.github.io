@@ -1,3 +1,0 @@
-# Media
-
-Coming soon...
